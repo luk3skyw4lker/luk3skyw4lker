@@ -6,7 +6,7 @@ Javascript Fullstack Developer at Bristom and IDFlow.
 [![Gmail Badge](https://img.shields.io/badge/-lucashenriqueblemos@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucashenriqueblemos@gmail.com)](mailto:lucashenriqueblemos@gmail.com)
 
 Desktop, mobile, frontend and backend. Philosophy and Economics enthusiast.
-Currently learning Python and looking for Go. Looking for collaborate on open source projects as well, feel free to invite me :)
+Currently learning Python and curious about Go. Looking for collaborate on open source projects as well, feel free to invite me :)
 
 "Talk is cheap. **Show me the code**" - _Linus Torvalds_
 
