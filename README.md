@@ -1,4 +1,14 @@
-### Hi there 👋
+# Lucas Henrique
+
+Javascript Fullstack Developer at Bristom and IDFlow.
+
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Henrique-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucashenriqueblemos/)](https://www.linkedin.com/in/lucashenriqueblemos/) 
+[![Gmail Badge](https://img.shields.io/badge/-lucashenriqueblemos@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucashenriqueblemos@gmail.com)](mailto:lucashenriqueblemos@gmail.com)
+
+Desktop, mobile, frontend and backend. Philosophy and Economics enthusiast.
+Currently learning Python and looking for Go. Looking for collaborate on open source projects as well, feel free to invite me :)
+
+"Talk is cheap. **Show me the code**" - _Linus Torvalds_
 
 <!--
 **luk3skyw4lker/luk3skyw4lker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
