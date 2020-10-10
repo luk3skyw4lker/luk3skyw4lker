@@ -3,6 +3,7 @@
 Javascript Fullstack Developer at Bristom and IDFlow.
 
 How to reach me:
+
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Henrique-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucashenriqueblemos/)](https://www.linkedin.com/in/lucashenriqueblemos/) 
 [![Gmail Badge](https://img.shields.io/badge/-lucashenriqueblemos@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucashenriqueblemos@gmail.com)](mailto:lucashenriqueblemos@gmail.com)
 
