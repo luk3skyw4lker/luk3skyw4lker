@@ -2,8 +2,12 @@
 
 Javascript Fullstack Developer at Bristom and IDFlow.
 
-[![luk3skyw4lker stats](https://github-readme-stats.anuraghazra1.vercel.app/api/?username=luk3skyw4lker&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![luk3skyw4lker top langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luk3skyw4lker&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/?username=luk3skyw4lker&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luk3skyw4lker&show_icons=true&theme=dark&layout=compact" />
+</a>
 
 How to reach me:
 
