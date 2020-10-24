@@ -2,13 +2,6 @@
 
 Javascript Fullstack Developer at Bristom and IDFlow.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/?username=luk3skyw4lker&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luk3skyw4lker&show_icons=true&theme=dark&layout=compact" />
-</a>
-
 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Henrique-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucashenriqueblemos/)](https://www.linkedin.com/in/lucashenriqueblemos/) 
@@ -19,6 +12,13 @@ Desktop, mobile, frontend and backend with Javascript. Philosophy, Music and Eco
 Looking for collaborate on open source projects, feel free to invite me :)
 
 "Talk is cheap. **Show me the code**" - _Linus Torvalds_
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/?username=luk3skyw4lker&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luk3skyw4lker&show_icons=true&theme=dark&layout=compact" />
+</a>
 
 <!--
 **luk3skyw4lker/luk3skyw4lker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
