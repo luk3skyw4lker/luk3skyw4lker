@@ -2,6 +2,9 @@
 
 Javascript Fullstack Developer at Bristom and IDFlow.
 
+[![luk3skyw4lker stats](https://github-readme-stats.anuraghazra1.vercel.app/api/?username=luk3skyw4lker&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![luk3skyw4lker top langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luk3skyw4lker&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Henrique-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucashenriqueblemos/)](https://www.linkedin.com/in/lucashenriqueblemos/) 
