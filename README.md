@@ -1,13 +1,19 @@
 # Lucas Henrique
 
-Javascript Fullstack Developer at Bristom and IDFlow.
+Head Of Development at Bristom.
 
 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Henrique-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucashenriqueblemos/)](https://www.linkedin.com/in/lucashenriqueblemos/) 
 [![Gmail Badge](https://img.shields.io/badge/-lucashenriqueblemos@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucashenriqueblemos@gmail.com)](mailto:lucashenriqueblemos@gmail.com)
 
-Desktop, mobile, frontend and backend with Javascript. Philosophy, Music and Economics enthusiast. Currently learning Go, Flutter and Next.js, curious about Rust.
+- Desktop (ElectronJS)
+- Mobile (React Native and Flutter)
+- Web Frontend (React and Next.js)
+- Backend (Node.js and Go)
+
+Still learning about Go and Flutter and looking forward to learn Rust.
+I'm also a Philosophy, Music and Economics enthusiast.
 
 Looking for collaborate on open source projects, feel free to invite me :)
 
