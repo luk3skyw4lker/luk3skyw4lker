@@ -19,11 +19,6 @@ Looking for collaborate on open source projects, feel free to invite me :)
 
 "Talk is cheap. **Show me the code**" - _Linus Torvalds_
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luk3skyw4lker&show_icons=true&theme=dark&layout=compact" />
-</a>
-
 <!--
 **luk3skyw4lker/luk3skyw4lker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
