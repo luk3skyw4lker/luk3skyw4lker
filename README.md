@@ -1,6 +1,6 @@
 # Lucas Henrique
 
-Head Of Development at Bristom.
+Mid-level Typescript Developer at Smarteklife.
 
 How to reach me:
 
@@ -9,8 +9,8 @@ How to reach me:
 
 - Desktop (ElectronJS)
 - Mobile (React Native and Flutter)
-- Web Frontend (React and Next.js)
-- Backend (Node.js and Go)
+- Web Frontend (React, Next.js, Angular)
+- Backend (Node.js, Go, Python and C/C++)
 
 Still learning about Go and Flutter and looking forward to learn Rust.
 I'm also a Philosophy, Music and Economics enthusiast.
