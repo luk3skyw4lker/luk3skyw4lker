@@ -8,8 +8,8 @@ How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-lucashenriqueblemos@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucashenriqueblemos@gmail.com)](mailto:lucashenriqueblemos@gmail.com)
 
 - Desktop (ElectronJS)
-- Mobile (React Native and Flutter)
-- Web Frontend (React, Next.js and Angular)
+- Frontend Mobile (React Native and Flutter)
+- Frontend Web (React, Next.js and Angular)
 - Backend (Node.js, Go, Python, Ruby and C/C++)
 
 Still learning about Go and Flutter and looking forward to learn Rust.
