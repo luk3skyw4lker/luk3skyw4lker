@@ -1,6 +1,6 @@
 # Lucas Henrique
 
-Mid-level Fullstack Developer at @criticalmassbr.
+Mid-level Fullstack Developer at [**@criticalmassbr**](https://github.com/criticalmassbr).
 
 How to reach me:
 
