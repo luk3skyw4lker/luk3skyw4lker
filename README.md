@@ -1,6 +1,6 @@
 # Lucas Henrique
 
-Mid-level Typescript Developer at Smarteklife.
+Mid-level Fullstack Developer at @criticalmassbr.
 
 How to reach me:
 
