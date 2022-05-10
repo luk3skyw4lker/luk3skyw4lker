@@ -12,12 +12,10 @@ How to reach me:
 - Desktop (ElectronJS)
 - Mobile Frontend (React Native and Flutter)
 - Web Frontend (React, Next.js and Angular)
-- Backend (Node.js, Go, Python, Ruby and C/C++)
+- Backend (Node.js, Go, Python, Ruby, Rust and C/C++)
 
-Still learning about Go and Flutter and looking forward to learn Rust.
+Still learning about Go, FLutter and Rust.
 I'm also a Philosophy, Music and Economics enthusiast.
-
-Looking for collaborate on open source projects, feel free to invite me :)
 
 "Talk is cheap. **Show me the code**" - _Linus Torvalds_
 
