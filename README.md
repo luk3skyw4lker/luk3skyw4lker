@@ -14,7 +14,7 @@ How to reach me:
 - Web Frontend (React, Next.js and Angular)
 - Backend (Node.js, Go, Python, Ruby, Rust and C/C++)
 
-Still learning about Go, FLutter and Rust.
+Still learning about Go, Flutter and Rust.
 I'm also a Philosophy, Music and Economics enthusiast.
 
 "Talk is cheap. **Show me the code**" - _Linus Torvalds_
