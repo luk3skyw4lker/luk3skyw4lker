@@ -2,6 +2,8 @@
 
 Fullstack Developer at [**@criticalmassbr**](https://github.com/criticalmassbr).
 
+Contributor at [**@denoland**](https://github.com/denoland) and at [**@microsoft**](https://github.com/microsoft).
+
 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Henrique-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucashenriqueblemos/)](https://www.linkedin.com/in/lucashenriqueblemos/) 
