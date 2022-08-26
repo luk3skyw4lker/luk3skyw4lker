@@ -2,7 +2,7 @@
 
 Fullstack Developer at [**@criticalmassbr**](https://github.com/criticalmassbr).
 
-Contributor at [**@denoland**](https://github.com/denoland) and at [**@microsoft**](https://github.com/microsoft).
+Contributor to [**@denoland**](https://github.com/denoland) and [**@microsoft**](https://github.com/microsoft).
 
 How to reach me:
 
