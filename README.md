@@ -13,7 +13,7 @@ How to reach me:
 
 - Desktop (ElectronJS)
 - Mobile Frontend (React Native and Flutter)
-- Web Frontend (React, Next.js and Angular)
+- Web Frontend (React and Next.js)
 - Backend (Node.js, Go, Python, Ruby, Rust and C/C++)
 
 Still learning about Go, Flutter and Rust.
