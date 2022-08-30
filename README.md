@@ -3,6 +3,8 @@
 Fullstack Developer at [**@criticalmassbr**](https://github.com/criticalmassbr).
 
 Contributing to [**@denoland**](https://github.com/denoland) and [**@microsoft**](https://github.com/microsoft).
+Speaker
+Content Producer at [**https://luk3skyw4lker.com**](https://luk3skyw4lker.com)
 
 How to reach me:
 
