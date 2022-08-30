@@ -1,8 +1,8 @@
 # Lucas Henrique
 
-Fullstack Developer at [**@criticalmassbr**](https://github.com/criticalmassbr).  
-Contributor at [**@denoland**](https://github.com/denoland) and [**@microsoft**](https://github.com/microsoft).  
-Content Producer at [**https://luk3skyw4lker.com**](https://luk3skyw4lker.com).  
+Fullstack Developer at [**@criticalmassbr**](https://github.com/criticalmassbr)  
+Contributor at [**@denoland**](https://github.com/denoland) and [**@microsoft**](https://github.com/microsoft)  
+Content Producer at [**https://luk3skyw4lker.com**](https://luk3skyw4lker.com)  
 Tech Speaker
 
 How to reach me:
