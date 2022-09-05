@@ -20,6 +20,8 @@ How to reach me:
 Still learning about Go, Flutter and Rust.
 I'm also a Philosophy, Music and Economics enthusiast.
 
+[**C2 English Proeficiency Certificate**](https://www.efset.org/cert/hF1vXK)
+
 "Talk is cheap. **Show me the code**" - _Linus Torvalds_
 
 <!--
