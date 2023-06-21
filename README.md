@@ -10,7 +10,7 @@ How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Henrique-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucashenriqueblemos/)](https://www.linkedin.com/in/lucashenriqueblemos/) 
 [![Gmail Badge](https://img.shields.io/badge/-lucashenriqueblemos@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucashenriqueblemos@gmail.com)](mailto:lucashenriqueblemos@gmail.com)
 
-7 years of software development experience, and through these years I have worked with the following stacks and areas:
+8 years of software development experience, and through these years I have worked with the following stacks and areas:
 
 - Desktop (ElectronJS)
 - Mobile Frontend (React Native and Flutter)
