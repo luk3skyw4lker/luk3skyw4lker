@@ -1,6 +1,7 @@
 # Lucas Henrique
 
-Fullstack Developer at [**@originate**](https://github.com/Originate)  
+Software Engineer at [**@originate**](https://github.com/Originate)\
+
 Contributor at [**@denoland**](https://github.com/denoland), [**@microsoft**](https://github.com/microsoft) and [**@gofiber**](https://github.com/gofiber)  
 Content Producer at [**https://luk3skyw4lker.com**](https://luk3skyw4lker.com)  
 Tech Speaker
@@ -17,7 +18,6 @@ How to reach me:
 - Web Frontend (React and Next.js)
 - Backend (Node.js, Go, Python, Ruby, Rust and C/C++)
 
-Still learning about Flutter and Rust.
 I'm also a Philosophy, Music and Economics enthusiast.
 
 [**C2 English Proeficiency Certificate**](https://www.efset.org/cert/hF1vXK)
