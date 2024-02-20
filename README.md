@@ -18,7 +18,7 @@ How to reach me:
 - Web Frontend (React and Next.js)
 - Backend (Node.js, Go, Python, Ruby, Rust and C/C++)
 
-I'm also a Philosophy, Music and Economics enthusiast.
+I'm also a philosophy/music/economics enthusiast and an amateur racing driver.
 
 [**C2 English Proeficiency Certificate**](https://www.efset.org/cert/hF1vXK)
 
