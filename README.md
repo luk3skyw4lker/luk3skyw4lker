@@ -4,19 +4,13 @@ Software Engineer at [**@originate**](https://github.com/Originate)
 
 Contributor at [**@denoland**](https://github.com/denoland), [**@microsoft**](https://github.com/microsoft) and [**@gofiber**](https://github.com/gofiber)  
 Content Producer at [**https://luk3skyw4lker.com**](https://luk3skyw4lker.com)  
-Tech Speaker
 
 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Henrique-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucashenriqueblemos/)](https://www.linkedin.com/in/lucashenriqueblemos/) 
 [![Gmail Badge](https://img.shields.io/badge/-lucashenriqueblemos@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucashenriqueblemos@gmail.com)](mailto:lucashenriqueblemos@gmail.com)
 
-8 years of software development experience, and through these years I have worked with the following stacks and areas:
-
-- Desktop (ElectronJS)
-- Mobile Frontend (React Native and Flutter)
-- Web Frontend (React and Next.js)
-- Backend (Node.js, Go, Python, Ruby, Rust and C/C++)
+9 years of software development experience, and through these years I have especialized in backend development with Golang and Node.js. Currently learning Rust.
 
 I'm also a philosophy/music/economics enthusiast and an amateur racing driver.
 
