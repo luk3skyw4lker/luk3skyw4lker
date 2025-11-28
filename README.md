@@ -5,6 +5,7 @@ CEO at [**@flsoftwaresolutions**](https://github.com/flsoftwaresolutions)
 
 Contributor at [**@denoland**](https://github.com/denoland), [**@microsoft**](https://github.com/microsoft) and [**@gofiber**](https://github.com/gofiber)  
 Content Producer at [**https://luk3skyw4lker.com**](https://luk3skyw4lker.com)  
+Tech Speaker  
 
 Find me at:
 
