@@ -1,9 +1,10 @@
-# Lucas Henrique
+# Lucas Lemos
 
 Software Engineer [**@gymshark**](https://github.com/gymshark)  
 CEO [**@flsoftwaresolutions**](https://github.com/flsoftwaresolutions)
 
-Contributor at [**@denoland**](https://github.com/denoland), [**@microsoft**](https://github.com/microsoft) and [**@gofiber**](https://github.com/gofiber)  
+Contributor [**@denoland**](https://github.com/denoland), [**@microsoft**](https://github.com/microsoft) and [**@gofiber**](https://github.com/gofiber)  
+Community Leader [**@reactivando-community**](https://github.com/reactivando-community)   
 Content Producer at [**https://luk3skyw4lker.com**](https://luk3skyw4lker.com)  
 Tech Speaker  
 
