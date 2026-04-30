@@ -4,7 +4,7 @@ Software Engineer [**@gymshark**](https://github.com/gymshark)
 CEO [**@flsoftwaresolutions**](https://github.com/flsoftwaresolutions)
 
 Contributor [**@denoland**](https://github.com/denoland), [**@microsoft**](https://github.com/microsoft) and [**@gofiber**](https://github.com/gofiber)  
-Community Leader [**@reactivando-community**](https://github.com/reactivando-community)   
+Community Leader [**@reactivandocommunity**](https://github.com/reactivandocommunity)   
 Tech Speaker  
 
 More than a decade of software development experience specialized in backend development with Golang and Typescript. Racing driver for fun.
